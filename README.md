@@ -91,6 +91,18 @@
 
 * 任何以任何方式查看此项目的人或直接或间接使用该Script项目的任何脚本的使用者都应仔细阅读此声明。w37fhy保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或Script项目的规则，则视为您已接受此免责声明.
 
+
+108*108 icon图标
+
+
+透明/无色图标的，请在彩色图标的后面加上 "_mini"
+
+举例：
+
+彩色的：https://raw.githubusercontent.com/zyx09266/icon/main/名字.png
+
+透明的：https://raw.githubusercontent.com/zyx09266/icon/main/名字_mini.png
+
 ### 特别感谢（排名不分先后）：
 
 * [@Tartarus2014](https://github.com/Tartarus2014)
